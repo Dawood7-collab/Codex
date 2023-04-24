@@ -12,7 +12,7 @@ pip install matplotlib
 Once you have the libraries installed, you can run the Python scripts in any Python IDE or from the command line.
 
 
-This repository contains the following files:
+This repository contains the following files
 
 line_plot.py: A script for creating a basic line plot with Matplotlib.
 
